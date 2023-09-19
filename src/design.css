@@ -1,0 +1,16 @@
+.back{
+    background-image: url(../src/imageStorage/star.gif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    /* height:200vh; */
+
+       
+}
+
+.blackNav{
+    /* width : '98%'; margin-left:'10%';   */
+    padding-left:2%;
+
+
+}
+

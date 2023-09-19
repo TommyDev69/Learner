@@ -1,0 +1,61 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.depp{
+  animation:flash; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  display: inline-block;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	-ms-border-radius:50%;
+	border-radius:50%;
+	animation:flash 2s infinite;
+	-webkit-animation:flash 2s infinite;
+	-moz-animation:flash 2s infinite;
+	-o-animation:flash 2s infinite;
+}
+
+.card1{
+
+	box-shadow: 0px 2px 0px 2px rgb(51, 109, 82);
+	opacity: 0.5;
+
+}
+
+.cardet{
+  opacity: 0.8;
+  
+}
+.change{
+	height:50vh;
+	width:50vw;
+	/* font-style:italic ; */
+}
+
+.text{
+	font-weight: bolder;
+}
+
+.butDepp{
+    margin: 0 0.1rem;
+  animation: heartBeat; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  display: inline-block; 
+  animation: heartBeat 2s infinite;
+  -webkit-animation: heartBeat 2s infinite;
+  -moz-animation: heartBeat 2s infinite;
+  -o-animation: heartBeat 2s infinite;
+}
+
+.butDepp1{
+    margin: 0 0.1rem;
+  animation: bounceIn; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  display: inline-block; 
+  animation: bounceIn 2s infinite;
+  -webkit-animation: bounceIn 2s infinite;
+  -moz-animation: bounceIn 2s infinite;
+  -o-animation: bounceIn 2s infinite;
+}

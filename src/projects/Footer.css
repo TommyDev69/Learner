@@ -1,0 +1,45 @@
+
+ .contact{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Tilt Prism', cursive;
+
+    padding: 80px 0px 10px 35px;
+    /* font-weight: bolder; */
+    text-transform: uppercase;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+/* font-family: 'Tilt Prism', cursive; */
+
+}
+
+.set{
+    padding-left: '40%' ;
+    display: flex;
+    padding-top:2px;
+    font-size:16px;
+}
+
+.set:hover{
+    color:yellow;
+}
+.phone{
+    padding-left:32%;
+}
+.phoney:hover{
+    color:#ffbe33;
+}
+/* a,.set{
+    color: white;
+    text-decoration: none;
+   
+} */
+/* span,.set{
+    margin-left: '40%' ;
+} */
+
+/* ..set:hover{
+ color:yellow;
+} */
